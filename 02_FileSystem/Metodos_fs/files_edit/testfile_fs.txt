@@ -1,0 +1,8 @@
+    
+***************
+** MÓDULO FS **
+***************
+
+Archivo ejemplo sobre la manipulación de archivos utilizando el módulo 'fs'.
+
+----------------------------------------
